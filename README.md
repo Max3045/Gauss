@@ -1,2 +1,6 @@
-# Gauss
-Implementation of the solution by the Gauss method on Windows forms
+# **Coursework** #
+# **Реализация решения СЛАУ методом Гаусса**
+
+#### **Описание системы**
+`Readme.pdf` - руководство пользователя
+
